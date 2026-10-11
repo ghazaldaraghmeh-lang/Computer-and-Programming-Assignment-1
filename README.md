@@ -11,11 +11,11 @@ The program calculates the values using the following equations:
 
 1. Calculate z:
    
-z = x^y + xy + y^x
+    z = x^y + xy + y^x
 
 2. Calculate the final result:
    
-res = √{sumOfEvenDigits(n) + find_z(x,y)}
+    res = √{sumOfEvenDigits(n) + find_z(x,y)}
 
 Program Requirements
 
