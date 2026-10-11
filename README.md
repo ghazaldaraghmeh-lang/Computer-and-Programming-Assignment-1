@@ -1,15 +1,15 @@
 COMP133 – Assignment 1
+
 Assignment Description
 This is a C programming assignment that reads three values (x, y, and n) from a file named vals.txt and calculates a result using mathematical functions.
 The program calculates the sum of all even digits in the four-digit integer n, computes a value z using x and y, and then calculates the square root of their sum to obtain the final result res.
+
 Mathematical Equations
 The program calculates the values using the following equations:
 1. Calculate z:
-
 z = x^y + xy + y^x
 
 2. Calculate the final result:
-
 res = √{sumOfEvenDigits(n) + find_z(x,y)}
 
 Program Requirements
@@ -22,12 +22,14 @@ The program must implement and use the following three functions:
 	sumOfEvenDigits(n): Takes n as a parameter and returns the sum of all even digits in the four-digit integer n.
 	find_z(x, y): Takes x and y as parameters and returns the value of z according to the given mathematical equation.
 Finally, the program prints the calculated result.
+
 Example
 If vals.txt contains the following values:
 5
 2.5
 2348
 The program reads the three values, performs the required calculations, and prints the final result.
+
 Restrictions
 	Loops are not allowed anywhere in the program.
 	All three required functions must be implemented and used.
