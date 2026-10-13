@@ -1,4 +1,4 @@
-# COMP133 – Assignment 2
+# COMP133 – Assignment 1
 
 ## Description
 
