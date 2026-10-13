@@ -1,6 +1,6 @@
-COMP133 – Assignment 1
+# COMP133 – Assignment 2
 
-Assignment Description
+## Description
 
 This is a C programming assignment that reads three values (x, y, and n) from a file named vals.txt and calculates a result using mathematical functions.
 The program calculates the sum of all even digits in the four-digit integer n, computes a value z using x and y, and then calculates the square root of their sum to obtain the final result res.
