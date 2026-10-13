@@ -9,13 +9,29 @@ Mathematical Equations
 
 The program calculates the values using the following equations:
 
-1. Calculate z:
-   
-    z = x^y + xy + y^x
+## Calculations
 
-2. Calculate the final result:
-   
-    res = √{sumOfEvenDigits(n) + find_z(x,y)}
+### 1. Calculate \(z\)
+
+Calculate `z` using the following formula:
+
+\[
+z = x^y + xy + y^x
+\]
+
+### 2. Calculate the Final Result
+
+Calculate `res` using the following formula:
+
+\[
+res = \sqrt{\text{sumOfEvenDigits}(n) + \text{find\_z}(x,y)}
+\]
+
+Where:
+- `x` and `y` are the input values.
+- `n` is the number used to calculate the sum of its even digits.
+- `find_z(x, y)` calculates the value of \(z\).
+- `res` is the final result.
 
 Program Requirements
 
