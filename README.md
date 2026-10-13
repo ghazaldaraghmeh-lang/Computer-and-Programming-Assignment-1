@@ -24,7 +24,7 @@ z = x^y + xy + y^x
 Calculate `res` using the following formula:
 
 \[
-res = sqrt{\text{sumOfEvenDigits}(n) + \text{find\_z}(x,y)}
+    res = √{sumOfEvenDigits(n) + find_z(x,y)}
 \]
 
 Where:
